@@ -1,0 +1,6 @@
+[submodule "Fullstack-SERVER"]
+	path = Fullstack-SERVER
+	url = https://github.com/Desafio-TheBridge-Grupo3/Fullstack-SERVER.git
+[submodule "Fullstack-CLIENT"]
+	path = Fullstack-CLIENT
+	url = https://github.com/Desafio-TheBridge-Grupo3/Fullstack-CLIENT.git
